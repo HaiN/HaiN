@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![hi_gif](https://user-images.githubusercontent.com/70284775/91580941-80779000-e956-11ea-8693-187539524de5.gif)
 
 <!--
 **HaiN/HaiN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
